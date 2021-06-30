@@ -1,1 +1,1040 @@
 ttps://i7.t.hubspotemail.net/e2t/tc/VVPd0k74t473W6-dQYy4_SKZRW2jjqKJ4tqVc6N9cd5H17m49cV5X_Kf7CgD9SVpVCzt6Tck_cN8Kc51JJVg6YW3698vy4RBs5PVgTc_K1JKdVPW3v7MVq8GSjfFW7Z688g4dLmGDW1SZgGs6mmp4RW70kqfc3H3H1CW6KMt-J1zYF7jW1TYkzq7QyQtLW6ctSDl50Pkh2N854KlDmzHQ1VQDJcx98g0BPW643DD66fF7w2N3JB_wVtzrZXW5B4tsf1Jly_tW3PdY0L1bS1KSW74s4G_1zvGytW2fXyCD8Lb7gbW3d2T0C7WBZZ2W1TBf5Z12p-8qW7hqz7_15vc4wW95kF352GgxwfW4J7X6H4s7Nx_W2wtYsl2ZrRqsN29s-G6Hx7YCW6wrrLh2xTv0cW5BFmfG5r8ncPV-rGtD1W7svDN3rt4tnlXHlDW76hnJf5xS0fCW6vpQmX8ssZBcW2qMsSY7_ltH2W34nxBF5MK_cvW8VKjw86DBSQLW56gfH18jP18RN4Px4p0D7PxNW1bQYFs2b4dm9W807N9l3BVDt_W5bs77t1t4DPyV3_YHF1DMqp5W4zp0c23ThK5YW4F_tDN6L6LTQW2wBNJ-7cSg4wW6L7h551XFHqgW29Hjcb4JvrzSW3fk1h14NbXsFW2DYJxh3mqfc3W7hmFjv2Cd53qV5rfv063FwKNW937Png24X457W92rGWc7z7m2-W8Y9zdY1tYcP6Vy-GKW1vKnBd3mHn1
+
+
+curl 'https://i7.t.hubspotemail.net/events/public/v1/track/tc/VVPd0k74t473W6-dQYy4_SKZRW2jjqKJ4tqVc6N9cd5H17m49cV5X_Kf7CgD9SVpVCzt6Tck_cN8Kc51JJVg6YW3698vy4RBs5PVgTc_K1JKdVPW3v7MVq8GSjfFW7Z688g4dLmGDW1SZgGs6mmp4RW70kqfc3H3H1CW6KMt-J1zYF7jW1TYkzq7QyQtLW6ctSDl50Pkh2N854KlDmzHQ1VQDJcx98g0BPW643DD66fF7w2N3JB_wVtzrZXW5B4tsf1Jly_tW3PdY0L1bS1KSW74s4G_1zvGytW2fXyCD8Lb7gbW3d2T0C7WBZZ2W1TBf5Z12p-8qW7hqz7_15vc4wW95kF352GgxwfW4J7X6H4s7Nx_W2wtYsl2ZrRqsN29s-G6Hx7YCW6wrrLh2xTv0cW5BFmfG5r8ncPV-rGtD1W7svDN3rt4tnlXHlDW76hnJf5xS0fCW6vpQmX8ssZBcW2qMsSY7_ltH2W34nxBF5MK_cvW8VKjw86DBSQLW56gfH18jP18RN4Px4p0D7PxNW1bQYFs2b4dm9W807N9l3BVDt_W5bs77t1t4DPyV3_YHF1DMqp5W4zp0c23ThK5YW4F_tDN6L6LTQW2wBNJ-7cSg4wW6L7h551XFHqgW29Hjcb4JvrzSW3fk1h14NbXsFW2DYJxh3mqfc3W7hmFjv2Cd53qV5rfv063FwKNW937Png24X457W92rGWc7z7m2-W8Y9zdY1tYcP6Vy-GKW1vKnBd3mHn1?_ud=b7b05136-94b5-4ff2-98f9-3dee804aef44&_ch=p&_pr2=p&_pl=2&_lg=en-US,en&_dr=p&_ts=p' \
+  -H 'authority: i7.t.hubspotemail.net' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Referer: https://i7.t.hubspotemail.net/e2t/tc/VVPd0k74t473W6-dQYy4_SKZRW2jjqKJ4tqVc6N9cd5H17m49cV5X_Kf7CgD9SVpVCzt6Tck_cN8Kc51JJVg6YW3698vy4RBs5PVgTc_K1JKdVPW3v7MVq8GSjfFW7Z688g4dLmGDW1SZgGs6mmp4RW70kqfc3H3H1CW6KMt-J1zYF7jW1TYkzq7QyQtLW6ctSDl50Pkh2N854KlDmzHQ1VQDJcx98g0BPW643DD66fF7w2N3JB_wVtzrZXW5B4tsf1Jly_tW3PdY0L1bS1KSW74s4G_1zvGytW2fXyCD8Lb7gbW3d2T0C7WBZZ2W1TBf5Z12p-8qW7hqz7_15vc4wW95kF352GgxwfW4J7X6H4s7Nx_W2wtYsl2ZrRqsN29s-G6Hx7YCW6wrrLh2xTv0cW5BFmfG5r8ncPV-rGtD1W7svDN3rt4tnlXHlDW76hnJf5xS0fCW6vpQmX8ssZBcW2qMsSY7_ltH2W34nxBF5MK_cvW8VKjw86DBSQLW56gfH18jP18RN4Px4p0D7PxNW1bQYFs2b4dm9W807N9l3BVDt_W5bs77t1t4DPyV3_YHF1DMqp5W4zp0c23ThK5YW4F_tDN6L6LTQW2wBNJ-7cSg4wW6L7h551XFHqgW29Hjcb4JvrzSW3fk1h14NbXsFW2DYJxh3mqfc3W7hmFjv2Cd53qV5rfv063FwKNW937Png24X457W92rGWc7z7m2-W8Y9zdY1tYcP6Vy-GKW1vKnBd3mHn1' \
+  --compressed ;
+curl 'https://cdn.jsdelivr.net/npm/exif-js' \
+  -H 'Accept: */*' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/styles.a313c8a6a1fae3f054c9.css' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://cdn.jsdelivr.net/npm/exif-js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/runtime-es2015.b282b35c691bedb702fa.js' \
+  -H 'Origin: https://app.treasure.cloud' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/polyfills-es2015.7f9c471ee0f2c91fda22.js' \
+  -H 'Origin: https://app.treasure.cloud' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/scripts.85c71a8249570d1d4480.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/vendor-es2015.31e5745bec36800d4bdf.js' \
+  -H 'Origin: https://app.treasure.cloud' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/main-es2015.93d38ef80da5e05f17db.js' \
+  -H 'Origin: https://app.treasure.cloud' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://localhost:3131/app.treasure.cloud.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/cclstd-book.9048137056e4347dbbd5.otf' \
+  -H 'Origin: https://app.treasure.cloud' \
+  -H 'Referer: https://app.treasure.cloud/styles.a313c8a6a1fae3f054c9.css' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtm.js?id=GTM-WZVM3TT&l=dataLayer' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtm.js?id=GTM-WZVM3TT&l=dataLayer' \
+  -H 'authority: www.googletagmanager.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Tue, 29 Jun 2021 09:00:00 GMT' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/ns.html?id=GTM-WZVM3TT' \
+  -H 'authority: www.googletagmanager.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://app.treasure.cloud/3-es2015.c6a9bf8f93b179373f6c.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/6-es2015.55f0ed7e4622ceabecb0.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/common-es2015.787451cd435c30f1688d.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/15-es2015.6379781b1f0b7e8027d9.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/assets/svg/logos/treasure/primary/logo.svg' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://localhost:3131/googletagmanager.com.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://www.googletagmanager.com/ns.html?id=GTM-WZVM3TT' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/14-es2015.9cc187dd1bcd72c8a71d.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=G-60GXYXXB14&l=dataLayer&cx=c' \
+  -H 'authority: www.googletagmanager.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.googleadservices.com/pagead/conversion_async.js' \
+  -H 'authority: www.googleadservices.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: 3892345837017921139' \
+  --compressed ;
+curl 'https://www.google-analytics.com/analytics.js' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Wed, 09 Jun 2021 17:36:57 GMT' \
+  --compressed ;
+curl 'https://connect.facebook.net/en_US/fbevents.js' \
+  -H 'authority: connect.facebook.net' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=G-60GXYXXB14&l=dataLayer&cx=c' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googleadservices.com/pagead/conversion_async.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/analytics.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://connect.facebook.net/en_US/fbevents.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/5-es2015.95fc2b99c608908d0f5f.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/8-es2015.2eea4aafc4b36f228dea.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/16-es2015.f71e1460a8eba56c2181.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/j/collect?v=1&_v=j91&a=858500897&t=pageview&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&_u=QACAAEABAAAAAC~&jid=1016378252&gjid=49830171&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&_r=1&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1703652284' \
+  -X 'POST' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  --compressed ;
+curl 'https://www.google-analytics.com/j/collect?v=1&_v=j91&a=858500897&t=pageview&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&_u=QACAAEABAAAAAC~&jid=1016378252&gjid=49830171&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&_r=1&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1703652284' \
+  -X 'POST' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'origin: https://app.treasure.cloud' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/527991226/?random=1625038437807&cv=9&fst=1625038437807&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&tiba=Treasure&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/527991226/?random=1625038437807&cv=9&fst=1625038437807&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&tiba=Treasure&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4' \
+  -H 'authority: googleads.g.doubleclick.net' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: RUL=EOno8oUGGOnP95QGIi8BNmGQ49_0z_TUnVBJ8FhL813CIYF0IdgATczDwYtJJKyVnf2Jgzb9oMg_Ud1bSw|cs=AP6Md-WRhcpa4fOQl2eiHrTui0M_; IDE=AHWqTUkRtBRVs2XgysouYbDagILxQnmoXYbJ__5h-Uf5o4692XovzUmGJZH_RovIBB0' \
+  --compressed ;
+curl 'https://connect.facebook.net/signals/config/297060238197310?v=2.9.42&r=stable' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://connect.facebook.net/signals/config/297060238197310?v=2.9.42&r=stable' \
+  -H 'authority: connect.facebook.net' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-60GXYXXB14&gtm=2oe6n0&_p=858500897&sr=1728x720&_gaz=1&ul=en-us&cid=155793758.1622979348&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&dt=Treasure&sid=1625038436&sct=6&seg=0&uid=767266f030fa2f98adc6c30625c9a1a34e08fa13b7cfc580b162bdb0f7e986df&en=page_view&_ss=1&up.initialTrafficSource=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)' \
+  -X 'POST' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --compressed ;
+curl 'https://stats.g.doubleclick.net/g/collect?v=2&tid=G-60GXYXXB14&cid=155793758.1622979348&gtm=2oe6n0&aip=1&uid=767266f030fa2f98adc6c30625c9a1a34e08fa13b7cfc580b162bdb0f7e986df' \
+  -X 'POST' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --compressed ;
+curl 'https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-60GXYXXB14&cid=155793758.1622979348&gtm=2oe6n0&aip=1&uid=767266f030fa2f98adc6c30625c9a1a34e08fa13b7cfc580b162bdb0f7e986df&z=933260147' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-60GXYXXB14&gtm=2oe6n0&_p=858500897&sr=1728x720&_gaz=1&ul=en-us&cid=155793758.1622979348&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&dt=Treasure&sid=1625038436&sct=6&seg=0&uid=767266f030fa2f98adc6c30625c9a1a34e08fa13b7cfc580b162bdb0f7e986df&en=page_view&_ss=1&up.initialTrafficSource=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.treasure.cloud' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-06-28-17; NID=218=DnqQxcjwZBO-ZkykcSILRv6diqYLT5Ur1HbLIYXBsi4TAJyZSf_zO9_zOpkKRdXXaBldkbpH3DILn1prZ53U5p71WfW2VZ14VspOZS6he6cE31eLANbhHxuZ54HDgjbuh3aXypi2qUDgRmzNXupBqALdUOBgJM-JIQlapAF8HLQ' \
+  --compressed ;
+curl 'https://stats.g.doubleclick.net/g/collect?v=2&tid=G-60GXYXXB14&cid=155793758.1622979348&gtm=2oe6n0&aip=1&uid=767266f030fa2f98adc6c30625c9a1a34e08fa13b7cfc580b162bdb0f7e986df' \
+  -X 'POST' \
+  -H 'authority: stats.g.doubleclick.net' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.treasure.cloud' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: RUL=EOno8oUGGOnP95QGIi8BNmGQ49_0z_TUnVBJ8FhL813CIYF0IdgATczDwYtJJKyVnf2Jgzb9oMg_Ud1bSw|cs=AP6Md-WRhcpa4fOQl2eiHrTui0M_; IDE=AHWqTUkRtBRVs2XgysouYbDagILxQnmoXYbJ__5h-Uf5o4692XovzUmGJZH_RovIBB0' \
+  --compressed ;
+curl 'https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j91&tid=UA-181067235-1&cid=155793758.1622979348&jid=1016378252&gjid=49830171&_gid=56777445.1624882702&_u=QACAAEAAAAAAAC~&z=1410506708' \
+  -X 'POST' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  --compressed ;
+curl 'https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-60GXYXXB14&cid=155793758.1622979348&gtm=2oe6n0&aip=1&uid=767266f030fa2f98adc6c30625c9a1a34e08fa13b7cfc580b162bdb0f7e986df&z=933260147' \
+  -H 'authority: www.google.co.in' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j91&tid=UA-181067235-1&cid=155793758.1622979348&jid=1016378252&gjid=49830171&_gid=56777445.1624882702&_u=QACAAEAAAAAAAC~&z=1410506708' \
+  -X 'POST' \
+  -H 'authority: stats.g.doubleclick.net' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'origin: https://app.treasure.cloud' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: RUL=EOno8oUGGOnP95QGIi8BNmGQ49_0z_TUnVBJ8FhL813CIYF0IdgATczDwYtJJKyVnf2Jgzb9oMg_Ud1bSw|cs=AP6Md-WRhcpa4fOQl2eiHrTui0M_; IDE=AHWqTUkRtBRVs2XgysouYbDagILxQnmoXYbJ__5h-Uf5o4692XovzUmGJZH_RovIBB0' \
+  --compressed ;
+curl 'https://js.stripe.com/v3' \
+  -H 'authority: js.stripe.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: "6477aedf305cd9e76fd2725f3a4bb604"' \
+  -H 'if-modified-since: Fri, 25 Jun 2021 16:32:26 GMT' \
+  --compressed ;
+curl 'https://js.stripe.com/v3' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.com/pagead/1p-user-list/527991226/?random=1625038437807&cv=9&fst=1625036400000&num=1&guid=ON&eid=2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&tiba=Treasure&async=1&fmt=3&is_vtc=1&random=3441622870&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y' \
+  -H 'authority: www.google.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-06-28-17; NID=218=DnqQxcjwZBO-ZkykcSILRv6diqYLT5Ur1HbLIYXBsi4TAJyZSf_zO9_zOpkKRdXXaBldkbpH3DILn1prZ53U5p71WfW2VZ14VspOZS6he6cE31eLANbhHxuZ54HDgjbuh3aXypi2qUDgRmzNXupBqALdUOBgJM-JIQlapAF8HLQ' \
+  --compressed ;
+curl 'https://www.google.co.in/pagead/1p-user-list/527991226/?random=1625038437807&cv=9&fst=1625036400000&num=1&guid=ON&eid=2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&tiba=Treasure&async=1&fmt=3&is_vtc=1&random=3441622870&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y' \
+  -H 'authority: www.google.co.in' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google.com/pagead/1p-user-list/527991226/?random=1625038437807&cv=9&fst=1625036400000&num=1&guid=ON&eid=2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&tiba=Treasure&async=1&fmt=3&is_vtc=1&random=3441622870&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.co.in/pagead/1p-user-list/527991226/?random=1625038437807&cv=9&fst=1625036400000&num=1&guid=ON&eid=2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&tiba=Treasure&async=1&fmt=3&is_vtc=1&random=3441622870&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=PageView&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&rl=&if=false&ts=1625038438657&sw=1728&sh=720&v=2.9.42&r=stable&ec=0&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&rqm=GET' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=PageView&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&rl=&if=false&ts=1625038438657&sw=1728&sh=720&v=2.9.42&r=stable&ec=0&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&rqm=GET' \
+  -H 'authority: www.facebook.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: fr=07IDO3omsLpX93aFo..BgvLMY...1.0.Bg2b4U.' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/users' \
+  -H 'authority: app.treasure.cloud' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _gcl_au=1.1.495724595.1622979347; initialTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); lastTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); myoc=bmE=; _fbp=fb.1.1622979349872.380913466; __stripe_mid=cfada4c7-472f-494c-ab3e-e6db98f8d281ce9897; __utmzzses=1; _gid=GA1.2.56777445.1624882702; pageviewCount=41; _gat_UA-181067235-1=1; _ga_60GXYXXB14=GS1.1.1625038436.6.0.1625038436.60; _ga=GA1.1.155793758.1622979348' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/users/preference' \
+  -H 'authority: app.treasure.cloud' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _gcl_au=1.1.495724595.1622979347; initialTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); lastTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); myoc=bmE=; _fbp=fb.1.1622979349872.380913466; __stripe_mid=cfada4c7-472f-494c-ab3e-e6db98f8d281ce9897; __utmzzses=1; _gid=GA1.2.56777445.1624882702; pageviewCount=41; _gat_UA-181067235-1=1; _ga_60GXYXXB14=GS1.1.1625038436.6.0.1625038436.60; _ga=GA1.1.155793758.1622979348' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/users' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/plan' \
+  -H 'authority: app.treasure.cloud' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _gcl_au=1.1.495724595.1622979347; initialTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); lastTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); myoc=bmE=; _fbp=fb.1.1622979349872.380913466; __stripe_mid=cfada4c7-472f-494c-ab3e-e6db98f8d281ce9897; __utmzzses=1; _gid=GA1.2.56777445.1624882702; pageviewCount=41; _gat_UA-181067235-1=1; _ga_60GXYXXB14=GS1.1.1625038436.6.0.1625038436.60; _ga=GA1.1.155793758.1622979348' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/users/preference' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/plan' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/storages' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  --compressed ;
+curl 'https://app.treasure.cloud/api/v1/storages' \
+  -H 'authority: app.treasure.cloud' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'authorization: VE9LRU46MzMwNWFkM2YtZDhjYy0xMWViLTg1ZmMtMDUzOTA1Nzk2OWE3OmY2MWI3ZjhlLWQ4Y2ItMTFlYi1hMGZiLTkxYWQ1ZjY5MDBmMDpoZ3lvYUBtYWlsdG8ucGx1cw==' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _gcl_au=1.1.495724595.1622979347; initialTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); lastTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); myoc=bmE=; _fbp=fb.1.1622979349872.380913466; __stripe_mid=cfada4c7-472f-494c-ab3e-e6db98f8d281ce9897; __utmzzses=1; _gid=GA1.2.56777445.1624882702; pageviewCount=41; _gat_UA-181067235-1=1; _ga_60GXYXXB14=GS1.1.1625038436.6.0.1625038436.60; _ga=GA1.1.155793758.1622979348' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'authority: js.stripe.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/fingerprinted/js/shared-bee492748c0f8b1944a75edc75e9ed85.js' \
+  -H 'authority: js.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/fingerprinted/js/controller-ede7846e7d973889200df647c58b8cd2.js' \
+  -H 'authority: js.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://localhost:3131/js.stripe.com.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=Microdata&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&rl=&if=false&ts=1625038440211&cd\[DataLayer\]=%5B%5D&cd\[Meta\]=%7B%22title%22%3A%22Treasure%22%2C%22meta%3Adescription%22%3A%22Treasure%20is%20a%20cloud%20storage%20with%20a%20privacy-first%20approach.%20Treasure%20allows%20you%20to%20store%20and%20access%2C%20securely%2C%20all%20of%20your%20data%20and%20cloud%20accounts%20in%20a%20single%20place.%22%7D&cd\[OpenGraph\]=%7B%7D&cd\[Schema.org\]=%5B%5D&cd\[JSON-LD\]=%5B%5D&sw=1728&sh=720&v=2.9.42&r=stable&ec=1&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&es=automatic&tm=3&rqm=GET' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=Microdata&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&rl=&if=false&ts=1625038440211&cd\[DataLayer\]=%5B%5D&cd\[Meta\]=%7B%22title%22%3A%22Treasure%22%2C%22meta%3Adescription%22%3A%22Treasure%20is%20a%20cloud%20storage%20with%20a%20privacy-first%20approach.%20Treasure%20allows%20you%20to%20store%20and%20access%2C%20securely%2C%20all%20of%20your%20data%20and%20cloud%20accounts%20in%20a%20single%20place.%22%7D&cd\[OpenGraph\]=%7B%7D&cd\[Schema.org\]=%5B%5D&cd\[JSON-LD\]=%5B%5D&sw=1728&sh=720&v=2.9.42&r=stable&ec=1&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&es=automatic&tm=3&rqm=GET' \
+  -H 'authority: www.facebook.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: fr=07IDO3omsLpX93aFo..BgvLMY...1.0.Bg2b4U.' \
+  --compressed ;
+curl 'https://r.stripe.com/0' \
+  -H 'authority: r.stripe.com' \
+  -H 'accept: application/json' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://js.stripe.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw 'event_name=elements.controller.load&client_id=stripe-js&created=1625038440375&event_count=1&event_id=5c07c77c-5ff7-4346-8c93-b473c1cecab4&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=false&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.controller.load&event_count=1&timestamp=1625038440375&event_id=5c07c77c-5ff7-4346-8c93-b473c1cecab4&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=false&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.fetch_locale&event_count=2&timestamp=1625038440475&event_id=496c7b72-8c01-4c37-985e-e968391f2cfb&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=false&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.register_wrapper.update&event_count=3&timestamp=1625038440489&event_id=e00891e3-eb64-462f-bb5b-6e6d3201e30a&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.elements&event_count=4&timestamp=1625038440496&event_id=19eec299-c457-443b-a8ab-368219b7ff4d&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599&options-fonts=%5Bobject+Object%5D+%5Bobject+Object%5D&options-betas=' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.fetch_locale&event_count=5&timestamp=1625038440503&event_id=2d425924-4a49-4efe-84ac-d07e662383e3&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://r.stripe.com/0' \
+  -H 'authority: r.stripe.com' \
+  -H 'accept: application/json' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://js.stripe.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'event_name=elements.fatal.uncaught_error&client_id=stripe-js&created=1625038441148&event_count=6&event_id=20de1d64-54b2-4e34-96b3-443c3d006bc1&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599&iframe=true&name=SyntaxError&message=Uncaught+SyntaxError%3A+Identifier+\'originalPrompt\'+has+already+been+declared&element=ControllerApp&elementHasLoaded=true&lineNumber=1&columnNumber=1&stack=SyntaxError%3A+Identifier+\'originalPrompt\'+has+already+been+declared' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.fatal.uncaught_error&event_count=6&timestamp=1625038441148&event_id=20de1d64-54b2-4e34-96b3-443c3d006bc1&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599&iframe=true&name=SyntaxError&message=Uncaught+SyntaxError%3A+Identifier+%27originalPrompt%27+has+already+been+declared&element=ControllerApp&elementHasLoaded=true&lineNumber=1&columnNumber=1&stack=SyntaxError%3A+Identifier+%27originalPrompt%27+has+already+been+declared' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.timings&event_count=7&timestamp=1625038441965&event_id=ce932e19-78cd-4dfa-b19a-bc78e15291c9&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599&element=ControllerApp&dom_loading=169&dom_interactive=770&dom_complete=2340&since_sjs_load=775&since_stripe_create=745&since_create=745&mount_duration=720&since_fetch=687&load_count=1&match_frame=true&resource_timings-shared.js-transfer_size=43338&resource_timings-shared.js-duration=314&resource_timings-controller.js-transfer_size=21329&resource_timings-controller.js-duration=327&resource_timings-js.stripe.com.js-transfer_size=0&resource_timings-js.stripe.com.js-duration=31' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/m-outer-5564a2ae650989ada0dc7f7250ae34e9.html' \
+  -H 'authority: js.stripe.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.timings&event_count=8&timestamp=1625038442056&event_id=6903413e-58f5-42cf-bf04-ee98990e95d1&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599&element=outer&dom_loading=333&dom_interactive=957&dom_complete=8639&since_fetch=6186&load_count=1&load_before_dom_content_loaded=false&load_ready_state=interactive&first_create_ready_state=interactive&first_mount_readyState=interactive&until_first_create=31&until_first_mount=55&until_first_load=912&resource_timings-stripe.js-transfer_size=0&resource_timings-stripe.js-duration=1070&resource_timings-controller.html-transfer_size=357&resource_timings-controller.html-duration=112' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/fingerprinted/js/m-outer-60c368c1e1eddba7bd149e4b4f5408df.js' \
+  -H 'authority: js.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://js.stripe.com/v3/m-outer-5564a2ae650989ada0dc7f7250ae34e9.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://localhost:3131/js.stripe.com.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://js.stripe.com/v3/m-outer-5564a2ae650989ada0dc7f7250ae34e9.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'If-None-Match: "PYnsoqmH4iieXilr8JUIHInsXHU="' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'If-None-Match: "7D+zbHWXN9CUx6SMWm5CvcJbGlw="' \
+  --compressed ;
+curl 'https://m.stripe.network/inner.html' \
+  -H 'authority: m.stripe.network' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://js.stripe.com/v3/m-outer-5564a2ae650989ada0dc7f7250ae34e9.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60a6a315-3a4"' \
+  -H 'if-modified-since: Thu, 20 May 2021 17:57:41 GMT' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%2025%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=25&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1491475656' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%2050%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=50&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=570712077' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%2025%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=25&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1491475656' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%2050%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=50&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=570712077' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%2075%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=75&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1278377480' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%20100%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=100&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1295151888' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%2075%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=75&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1278377480' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=event&ni=1&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&ec=pageScroll&ea=scrolled%3A%20100%25&el=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&ev=100&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=1295151888' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://localhost:3131/m.stripe.network.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://m.stripe.network/inner.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://m.stripe.network/out-4.5.35.js' \
+  -H 'authority: m.stripe.network' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://m.stripe.network/inner.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60a6a315-153a9"' \
+  -H 'if-modified-since: Thu, 20 May 2021 17:57:41 GMT' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'If-None-Match: "DiVnbNAs2yctZSyh/l/1zYfabl0="' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/manifest.webmanifest' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/assets/meta/android-chrome-192x192.png' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://m.stripe.com/6' \
+  -H 'authority: m.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://m.stripe.network' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://m.stripe.network/inner.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: m=28513ad4-d839-43fd-b9d4-60fae6566c69cf5e2d' \
+  --data-raw 'JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjJiMTcxYjlhMzM2OTU0NWUzNzAzOTg3ZTU4YjQyN2IwMSUyMiUyQyUyMnQlMjIlM0ExMzc5LjIlMkMlMjJ0YWclMjIlM0ElMjI0LjUuMzUlMjIlMkMlMjJzcmMlMjIlM0ElMjJqcyUyMiUyQyUyMmElMjIlM0ElN0IlMjJhJTIyJTNBJTdCJTIydiUyMiUzQSUyMnRydWUlMjIlMkMlMjJ0JTIyJTNBMjIuMTA1JTdEJTJDJTIyYiUyMiUzQSU3QiUyMnYlMjIlM0ElMjJmYWxzZSUyMiUyQyUyMnQlMjIlM0EwLjI0JTdEJTJDJTIyYyUyMiUzQSU3QiUyMnYlMjIlM0ElMjJlbi1VUyUyQ2VuJTIyJTJDJTIydCUyMiUzQTAuMjc1JTdEJTJDJTIyZCUyMiUzQSU3QiUyMnYlMjIlM0ElMjJMaW51eCUyMGFhcmNoNjQlMjIlMkMlMjJ0JTIyJTNBMC43NzUlN0QlMkMlMjJlJTIyJTNBJTdCJTIydiUyMiUzQSUyMkNocm9taXVtJTIwUERGJTIwUGx1Z2luJTJDaW50ZXJuYWwtcGRmLXZpZXdlciUyQ2FwcGxpY2F0aW9uJTJGeC1nb29nbGUtY2hyb21lLXBkZiUyQ3BkZiUyQyUyMENocm9taXVtJTIwUERGJTIwVmlld2VyJTJDbWhqZmJtZGdjZmpiYnBhZW9qb2ZvaG9lZmdpZWhqYWklMkNhcHBsaWNhdGlvbiUyRnBkZiUyQ3BkZiUyMiUyQyUyMnQlMjIlM0E3Ljc2NSU3RCUyQyUyMmYlMjIlM0ElN0IlMjJ2JTIyJTNBJTIyMTcyOHdfNjQwaF8yNGRfMXIlMjIlMkMlMjJ0JTIyJTNBMC4xNiU3RCUyQyUyMmclMjIlM0ElN0IlMjJ2JTIyJTNBJTIyMCUyMiUyQyUyMnQlMjIlM0EwLjE1NSU3RCUyQyUyMmglMjIlM0ElN0IlMjJ2JTIyJTNBJTIyZmFsc2UlMjIlMkMlMjJ0JTIyJTNBMC4xNDUlN0QlMkMlMjJpJTIyJTNBJTdCJTIydiUyMiUzQSUyMnNlc3Npb25TdG9yYWdlLWVuYWJsZWQlMkMlMjBsb2NhbFN0b3JhZ2UtZW5hYmxlZCUyMiUyQyUyMnQlMjIlM0EyNS4xOTUlN0QlMkMlMjJqJTIyJTNBJTdCJTIydiUyMiUzQSUyMjAwMDAwMDAxMDAwMDAwMDAwMDAxMTAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTAwMDAlMjIlMkMlMjJ0JTIyJTNBMTMxNS45JTJDJTIyYXQlMjIlM0E0NTMuNiU3RCUyQyUyMmslMjIlM0ElN0IlMjJ2JTIyJTNBJTIyJTIyJTJDJTIydCUyMiUzQTAuMTclN0QlMkMlMjJsJTIyJTNBJTdCJTIydiUyMiUzQSUyMk1vemlsbGElMkY1LjAlMjAoWDExJTNCJTIwTGludXglMjBhYXJjaDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjg4LjAuNDMyNC4xODIlMjBTYWZhcmklMkY1MzcuMzYlMjIlMkMlMjJ0JTIyJTNBMC4yMiU3RCUyQyUyMm0lMjIlM0ElN0IlMjJ2JTIyJTNBJTIyJTIyJTJDJTIydCUyMiUzQTEuOTY1JTdEJTJDJTIybiUyMiUzQSU3QiUyMnYlMjIlM0ElMjJmYWxzZSUyMiUyQyUyMnQlMjIlM0EyOTguODUlMkMlMjJhdCUyMiUzQTEuNzY1JTdEJTJDJTIybyUyMiUzQSU3QiUyMnYlMjIlM0ElMjI0MzJmMDkxZmE2NjlmOWYyOTQ2MzNiNWMxNmE5MmNhZSUyMiUyQyUyMnQlMjIlM0EyMDguNDQlN0QlN0QlMkMlMjJiJTIyJTNBJTdCJTIyYSUyMiUzQSUyMiUyMiUyQyUyMmIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRmp0NXpZVkpZcHFUMmVyYW1MY0IwaFhTRnlRQUh3eUpsVDVZOVFfOF8xZHcuQ2l1M1BWZXRXV19DbEpKZjVwSGEyT3h1enczTmQ0MW5XQTE4cmVVbkFUay5mMHhJb00yc280WEpFMmZ3MElncENXWC1YdXE5X2drVGhya2d6QUtrSWw4JTJGJTJGNzRBVEh3NGVXelowVjFHMzFPTHc2WFFGcEJSMlYzdEVWTHlSaXYxd1JWOCUyRlB5aE04REF0eVNhTzFRSkpJSzNzQVpvWmxWRGJfUzZTdlh0OUdxUHVuT1klM0ZHUGV3UHhIQXZUUmgzLXA2RzVOSHExV1MtNUljczVYdXlpS2JncWVKTmkwJTNEN2hUWkNHOXBwYVhDakZPNGp6OHRROVI5YmZ6MXpSaEFPWUNwNG1XWUp6ZyUyNjdlTlZZTzNLSmJ3b1RoQVdxQllXSzVuMnZaekdpbGVyMUNTaU5nQU8yVzglM0RaMWd1T1JuRVlOR0pRVW1KV1hYR1FmZURHQll1dEp0TUJSMTkwR3dvdnVFJTI2MHBvTy1UUExvOW5vRWNHM2w4aVF4QzhTV0hWc2Izb1pJSllZcEtHQ18zcyUzRG1RVmtsSW54TDNTYWNlQldEc3RXYXpXNGNhU2hRbzZGVl9XNFByakJXZDQlMjZQdjJEbkVla2dzbUwzX1k1aWRPd0s4NDlVVkNoQ0VlLUpOOGVOMzFkZVZBJTNEODlneW5oNzBjMHIzdEhjUWxLTVdnWTctZWY4VHVzV0N0REZlNS1ENVl1cyUyNkJEYlc5MFVjZElsc0txOHBtLUZkWVp3SVp0dTVncjFBT2d3c2pHRHRMaU0lM0QyYjJYQnVlNlBMVFVtWWxHbjZjWkFGOXV4SDJTVFJkNHotMzJ2a0gxTHFnJTI2Mkl3amxFJTNEODlneW5oJTI2NWE0TWdmJTNEWjdQMktaJTIyJTJDJTIyYyUyMiUzQSUyMk9FQ0ZkczFwUHNMbHFVWlI5RnRGTndMeUl1dU5qaEVWS0pHMElnTDQ3eWclMjIlMkMlMjJkJTIyJTNBJTIyY2ZhZGE0YzctNDcyZi00OTRjLWFiM2UtZTZkYjk4ZjhkMjgxY2U5ODk3JTIyJTJDJTIyZSUyMiUzQSUyMk5BJTIyJTJDJTIyZiUyMiUzQWZhbHNlJTJDJTIyZyUyMiUzQXRydWUlMkMlMjJoJTIyJTNBdHJ1ZSUyQyUyMmklMjIlM0ElNUIlMjJsb2NhdGlvbiUyMiU1RCUyQyUyMmolMjIlM0ElNUIlNUQlMkMlMjJuJTIyJTNBMTMwOS43ODUwMDAwMDEyODQlMkMlMjJ1JTIyJTNBJTIyYXBwLnRyZWFzdXJlLmNsb3VkJTIyJTdEJTJDJTIyaCUyMiUzQSUyMmVmZjMyNjgwZDUxODg4OTk5Njc2JTIyJTdE' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/fingerprinted/js/trusted-types-checker-9b6e874f149cc545c2c2335f8707fd1f.js' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/fingerprinted/js/trusted-types-checker-9b6e874f149cc545c2c2335f8707fd1f.js' \
+  -H 'authority: js.stripe.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: "061c04e6217c3eb8dc56a4f26937a7b7"' \
+  -H 'if-modified-since: Tue, 01 Jun 2021 22:25:35 GMT' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-60GXYXXB14&gtm=2oe6n0&_p=858500897&sr=1728x720&ul=en-us&cid=155793758.1622979348&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&dt=Treasure&sid=1625038436&sct=6&seg=0&_s=2' \
+  -H 'Referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --data-raw $'en=scroll&_et=4030&epn.percent_scrolled=25\r\nen=scroll&_et=118&epn.percent_scrolled=50\r\nen=scroll&_et=148&epn.percent_scrolled=75\r\nen=scroll&_et=95&epn.percent_scrolled=90\r\nen=scroll&_et=6&epn.percent_scrolled=100' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-60GXYXXB14&gtm=2oe6n0&_p=858500897&sr=1728x720&ul=en-us&cid=155793758.1622979348&dl=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&dt=Treasure&sid=1625038436&sct=6&seg=0&_s=2' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.treasure.cloud' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud//auth/verify-email?vcode=VUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%3D&utm_campaign=Transactional%20Emails&utm_medium=email&_hsmi=107747337&_hsenc=p2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA&utm_content=107747337&utm_source=hs_email' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-06-28-17; NID=218=DnqQxcjwZBO-ZkykcSILRv6diqYLT5Ur1HbLIYXBsi4TAJyZSf_zO9_zOpkKRdXXaBldkbpH3DILn1prZ53U5p71WfW2VZ14VspOZS6he6cE31eLANbhHxuZ54HDgjbuh3aXypi2qUDgRmzNXupBqALdUOBgJM-JIQlapAF8HLQ' \
+  --data-raw $'en=scroll&_et=4030&epn.percent_scrolled=25\r\nen=scroll&_et=118&epn.percent_scrolled=50\r\nen=scroll&_et=148&epn.percent_scrolled=75\r\nen=scroll&_et=95&epn.percent_scrolled=90\r\nen=scroll&_et=6&epn.percent_scrolled=100' \
+  --compressed ;
+curl 'https://q.stripe.com/?event=elements.trusted_types_check&event_count=9&timestamp=1625038447275&event_id=d2a0673c-0e73-41f0-8326-7b1679b8c4bb&os=Linux&browserFamily=Chrome&version=1304e8886&key=pk_live_S44KEvqvsaN85DAEwmLALrlW00AmOzy91Z&referrer=https%3A%2F%2Fapp.treasure.cloud&stripe_js_id=da46e366-7d55-4c83-aa17-f1afd918050f&controller_load_time=1625038440307&wrapper=unknown&es_module=true&es_module_version=1.8.0&flag_cl=false&flag_clc=false&flag_gp=true&flag_gpe=true&frame_width=599&result=ALLOWED' \
+  -H 'authority: q.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://js.stripe.com/v3/controller-9b57ac4631c1cbdce57de562d5878e26.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://app.treasure.cloud/ngsw.json?ngsw-cache-bust=0.1844242962256819' \
+  -H 'authority: app.treasure.cloud' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/ngsw-worker.js' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _gcl_au=1.1.495724595.1622979347; initialTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); lastTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); myoc=bmE=; _fbp=fb.1.1622979349872.380913466; __stripe_mid=cfada4c7-472f-494c-ab3e-e6db98f8d281ce9897; __utmzzses=1; _gid=GA1.2.56777445.1624882702; pageviewCount=41; _gat_UA-181067235-1=1; _ga_60GXYXXB14=GS1.1.1625038436.6.0.1625038442.54; _ga=GA1.2.155793758.1622979348; __stripe_sid=450825ef-62e1-4bf5-afe9-ac97ff9f870bb06e89' \
+  --compressed ;
+curl 'https://app.treasure.cloud/ngsw.json?ngsw-cache-bust=0.32041155493524753' \
+  -H 'authority: app.treasure.cloud' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/ngsw-worker.js' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _gcl_au=1.1.495724595.1622979347; initialTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); lastTrafficSource=utmcsr=(direct)|utmcmd=(none)|utmccn=(not set); myoc=bmE=; _fbp=fb.1.1622979349872.380913466; __stripe_mid=cfada4c7-472f-494c-ab3e-e6db98f8d281ce9897; __utmzzses=1; _gid=GA1.2.56777445.1624882702; pageviewCount=41; _gat_UA-181067235-1=1; _ga_60GXYXXB14=GS1.1.1625038436.6.0.1625038442.54; _ga=GA1.2.155793758.1622979348; __stripe_sid=450825ef-62e1-4bf5-afe9-ac97ff9f870bb06e89' \
+  --compressed ;
+curl 'https://m.stripe.com/6' \
+  -H 'authority: m.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://m.stripe.network' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://m.stripe.network/inner.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: m=28513ad4-d839-43fd-b9d4-60fae6566c69cf5e2d' \
+  --data-raw 'JTdCJTIybXVpZCUyMiUzQSUyMmNmYWRhNGM3LTQ3MmYtNDk0Yy1hYjNlLWU2ZGI5OGY4ZDI4MWNlOTg5NyUyMiUyQyUyMnNpZCUyMiUzQSUyMjQ1MDgyNWVmLTYyZTEtNGJmNS1hZmU5LWFjOTdmZjlmODcwYmIwNmU4OSUyMiUyQyUyMnVybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGanQ1ellWSllwcVQyZXJhbUxjQjBoWFNGeVFBSHd5SmxUNVk5UV84XzFkdy5DaXUzUFZldFdXX0NsSkpmNXBIYTJPeHV6dzNOZDQxbldBMThyZVVuQVRrLmYweElvTTJzbzRYSkUyZncwSWdwQ1dYLVh1cTlfZ2tUaHJrZ3pBS2tJbDglMkYlMkY3NEFUSHc0ZVd6WjBWMUczMU9MdzZYUUZwQlIyVjN0RVZMeVJpdjF3UlY4JTJGUHloTThEQXR5U2FPMVFKSklLM3NBWm9abFZEYl9TNlN2WHQ5R3FQdW5PWSUzRkdQZXdQeEhBdlRSaDMtcDZHNU5IcTFXUy01SWNzNVh1eWlLYmdxZUpOaTAlM0Q3aFRaQ0c5cHBhWENqRk80ano4dFE5UjliZnoxelJoQU9ZQ3A0bVdZSnpnJTI2N2VOVllPM0tKYndvVGhBV3FCWVdLNW4ydlp6R2lsZXIxQ1NpTmdBTzJXOCUzRFoxZ3VPUm5FWU5HSlFVbUpXWFhHUWZlREdCWXV0SnRNQlIxOTBHd292dUUlMjYwcG9PLVRQTG85bm9FY0czbDhpUXhDOFNXSFZzYjNvWklKWVlwS0dDXzNzJTNEbVFWa2xJbnhMM1NhY2VCV0RzdFdhelc0Y2FTaFFvNkZWX1c0UHJqQldkNCUyNlB2MkRuRWVrZ3NtTDNfWTVpZE93Szg0OVVWQ2hDRWUtSk44ZU4zMWRlVkElM0Q4OWd5bmg3MGMwcjN0SGNRbEtNV2dZNy1lZjhUdXNXQ3RERmU1LUQ1WXVzJTI2QkRiVzkwVWNkSWxzS3E4cG0tRmRZWndJWnR1NWdyMUFPZ3dzakdEdExpTSUzRDJiMlhCdWU2UExUVW1ZbEduNmNaQUY5dXhIMlNUUmQ0ei0zMnZrSDFMcWclMjYySXdqbEUlM0Q4OWd5bmglMjY1YTRNZ2YlM0RaN1AyS1olMjIlMkMlMjJzb3VyY2UlMjIlM0ElMjJtb3VzZS10aW1pbmdzLTEwJTIyJTJDJTIyZGF0YSUyMiUzQSU1QjIzMDQyJTJDNiUyQzI5JTJDMjIlMkMxOSUyQzEzJTJDMzUlMkMxNiUyQzE2JTJDMTklNUQlN0Q=' \
+  --compressed ;
+curl 'https://www.googleadservices.com/pagead/conversion_async.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googleadservices.com/pagead/conversion_async.js' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/cclstd-medium.9ffafeddf192e8c8a111.otf' \
+  -H 'Origin: https://app.treasure.cloud' \
+  -H 'Referer: https://app.treasure.cloud/styles.a313c8a6a1fae3f054c9.css' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.treasure.cloud/assets/svg/icons/hide.svg' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=PageView&dl=https%3A%2F%2Fapp.treasure.cloud%2F&rl=&if=false&ts=1625038480125&sw=1728&sh=720&v=2.9.42&r=stable&ec=2&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&rqm=GET' \
+  -H 'authority: www.facebook.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: fr=07IDO3omsLpX93aFo..BgvLMY...1.0.Bg2b4U.' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=PageView&dl=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&rl=&if=false&ts=1625038480191&sw=1728&sh=720&v=2.9.42&r=stable&ec=3&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&rqm=GET' \
+  -H 'authority: www.facebook.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: fr=07IDO3omsLpX93aFo..BgvLMY...1.0.Bg2b4U.' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=PageView&dl=https%3A%2F%2Fapp.treasure.cloud%2F&rl=&if=false&ts=1625038480125&sw=1728&sh=720&v=2.9.42&r=stable&ec=2&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&rqm=GET' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.facebook.com/tr/?id=297060238197310&ev=PageView&dl=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&rl=&if=false&ts=1625038480191&sw=1728&sh=720&v=2.9.42&r=stable&ec=3&o=30&fbp=fb.1.1622979349872.380913466&it=1625038437876&coo=false&rqm=GET' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=pageview&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=668374971' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=858500897&t=pageview&_s=1&dl=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&ul=en-us&de=UTF-8&dt=Treasure&sd=24-bit&sr=1728x720&vp=599x503&je=0&_u=SACAAEABAAAAAC~&jid=&gjid=&cid=155793758.1622979348&tid=UA-181067235-1&_gid=56777445.1624882702&gtm=2wg6n0WZVM3TT&cd1=utmcsr%3D(direct)%7Cutmcmd%3D(none)%7Cutmccn%3D(not%20set)&z=668374971' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/527991226/?random=1625038481128&cv=9&fst=1625038481128&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&tiba=Sign%20in%20-%20Treasure&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4' \
+  -H 'authority: googleads.g.doubleclick.net' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: RUL=EOno8oUGGOnP95QGIi8BNmGQ49_0z_TUnVBJ8FhL813CIYF0IdgATczDwYtJJKyVnf2Jgzb9oMg_Ud1bSw|cs=AP6Md-WRhcpa4fOQl2eiHrTui0M_; IDE=AHWqTUkRtBRVs2XgysouYbDagILxQnmoXYbJ__5h-Uf5o4692XovzUmGJZH_RovIBB0' \
+  --compressed ;
+curl 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/527991226/?random=1625038481128&cv=9&fst=1625038481128&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&tiba=Sign%20in%20-%20Treasure&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.com/pagead/1p-user-list/527991226/?random=1625038481128&cv=9&fst=1625036400000&num=1&guid=ON&eid=376635470%2C2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&tiba=Sign%20in%20-%20Treasure&async=1&fmt=3&is_vtc=1&random=94313948&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.co.in/pagead/1p-user-list/527991226/?random=1625038481128&cv=9&fst=1625036400000&num=1&guid=ON&eid=376635470%2C2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&tiba=Sign%20in%20-%20Treasure&async=1&fmt=3&is_vtc=1&random=94313948&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.com/pagead/1p-user-list/527991226/?random=1625038481128&cv=9&fst=1625036400000&num=1&guid=ON&eid=376635470%2C2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&tiba=Sign%20in%20-%20Treasure&async=1&fmt=3&is_vtc=1&random=94313948&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y' \
+  -H 'authority: www.google.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-06-28-17; NID=218=DnqQxcjwZBO-ZkykcSILRv6diqYLT5Ur1HbLIYXBsi4TAJyZSf_zO9_zOpkKRdXXaBldkbpH3DILn1prZ53U5p71WfW2VZ14VspOZS6he6cE31eLANbhHxuZ54HDgjbuh3aXypi2qUDgRmzNXupBqALdUOBgJM-JIQlapAF8HLQ' \
+  --compressed ;
+curl 'https://www.google.co.in/pagead/1p-user-list/527991226/?random=1625038481128&cv=9&fst=1625036400000&num=1&guid=ON&eid=376635470%2C2505059650&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=2&u_nmime=2&gtm=2wg6n0&sendb=1&frm=0&url=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&tiba=Sign%20in%20-%20Treasure&async=1&fmt=3&is_vtc=1&random=94313948&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y' \
+  -H 'authority: www.google.co.in' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://m.stripe.com/6' \
+  -H 'authority: m.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://m.stripe.network' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://m.stripe.network/inner.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: m=28513ad4-d839-43fd-b9d4-60fae6566c69cf5e2d' \
+  --data-raw 'JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjJiMTcxYjlhMzM2OTU0NWUzNzAzOTg3ZTU4YjQyN2IwMSUyMiUyQyUyMnQlMjIlM0E2NS40OTUlMkMlMjJ0YWclMjIlM0ElMjI0LjUuMzUlMjIlMkMlMjJzcmMlMjIlM0ElMjJqcyUyMiUyQyUyMmElMjIlM0FudWxsJTJDJTIyYiUyMiUzQSU3QiUyMmElMjIlM0ElMjIlMjIlMkMlMjJiJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZqdDV6WVZKWXBxVDJlcmFtTGNCMGhYU0Z5UUFId3lKbFQ1WTlRXzhfMWR3LkNpdTNQVmV0V1dfQ2xKSmY1cEhhMk94dXp3M05kNDFuV0ExOHJlVW5BVGsuZjB4SW9NMnNvNFhKRTJmdzBJZ3BDV1gtWHVxOV9na1RocmtnekFLa0lsOCUyRjc0QVRIdzRlV3paMFYxRzMxT0x3NlhRRnBCUjJWM3RFVkx5Uml2MXdSVjglMkZDQnBiXzBxbGY4WGNTc0ZLNW9mVUNrSEM4UVFkNTNweHM1Q1NJSnRINlU4JTIyJTJDJTIyYyUyMiUzQSUyMkFCT1EtbjVVSkpEZUc5akE5SDJ4OGVWa01PLXltQzJsU3E0amtrMERJYlElMjIlMkMlMjJkJTIyJTNBJTIyY2ZhZGE0YzctNDcyZi00OTRjLWFiM2UtZTZkYjk4ZjhkMjgxY2U5ODk3JTIyJTJDJTIyZSUyMiUzQSUyMjQ1MDgyNWVmLTYyZTEtNGJmNS1hZmU5LWFjOTdmZjlmODcwYmIwNmU4OSUyMiUyQyUyMmYlMjIlM0FmYWxzZSUyQyUyMmclMjIlM0F0cnVlJTJDJTIyaCUyMiUzQXRydWUlMkMlMjJpJTIyJTNBJTVCJTIybG9jYXRpb24lMjIlNUQlMkMlMjJqJTIyJTNBJTVCJTVEJTJDJTIybiUyMiUzQTEzMDkuNzg1MDAwMDAxMjg0JTJDJTIydSUyMiUzQSUyMmFwcC50cmVhc3VyZS5jbG91ZCUyMiU3RCUyQyUyMmglMjIlM0ElMjI3OTU3NGU1NjM1NDBlOWFjMzM0MyUyMiU3RA==' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-60GXYXXB14&gtm=2oe6n0&_p=858500897&sr=1728x720&ul=en-us&cid=155793758.1622979348&dl=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&dt=Treasure&sid=1625038436&sct=6&seg=1&_s=3' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.treasure.cloud' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.treasure.cloud/auth/signin' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-06-28-17; NID=218=DnqQxcjwZBO-ZkykcSILRv6diqYLT5Ur1HbLIYXBsi4TAJyZSf_zO9_zOpkKRdXXaBldkbpH3DILn1prZ53U5p71WfW2VZ14VspOZS6he6cE31eLANbhHxuZ54HDgjbuh3aXypi2qUDgRmzNXupBqALdUOBgJM-JIQlapAF8HLQ' \
+  --data-raw $'en=page_view&_et=37828\r\nen=page_view&_et=795&dr=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&dt=Sign%20in%20-%20Treasure' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-60GXYXXB14&gtm=2oe6n0&_p=858500897&sr=1728x720&ul=en-us&cid=155793758.1622979348&dl=https%3A%2F%2Fapp.treasure.cloud%2Fauth%2Fsignin&dt=Treasure&sid=1625038436&sct=6&seg=1&_s=3' \
+  -H 'Referer: https://app.treasure.cloud/auth/signin' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --data-raw $'en=page_view&_et=37828\r\nen=page_view&_et=795&dr=https%3A%2F%2Fapp.treasure.cloud%2F%2Fauth%2Fverify-email%3Fvcode%3DVUVsT09qRTFZbUl3TVRWbUxXUTVOelV0TVRGbFlpMWhNR1ppTFRreFlXUTFaalk1TURCbU1Eb3hOV0ppTURFMVpTMWtPVGMxTFRFeFpXSXRZVEJtWWkwNU1XRmtOV1kyT1RBd1pqQTZaak16WVRZeE1EaG5RRzFoYVd4ellXTXVZMjl0OjI4ODc3MTpmMzNhNjEwOGdAbWFpbHNhYy5jb20%253D%26utm_campaign%3DTransactional%2520Emails%26utm_medium%3Demail%26_hsmi%3D107747337%26_hsenc%3Dp2ANqtz--sNLGHoaoCKWzlX7r7-CApYEVP4n0jFRiht8U37s2C3_7FgwNYiqHIwW2BYPmi2ghw5dAUo5zc5Aax-JPBlGSabAPzDA%26utm_content%3D107747337%26utm_source%3Dhs_email&dt=Sign%20in%20-%20Treasure' \
+  --compressed
